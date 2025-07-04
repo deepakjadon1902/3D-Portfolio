@@ -35,8 +35,8 @@ export const projects: Project[] = [
     description: 'A professional 3D-style full-stack portfolio built using Vite, React, and TypeScript. It features smooth scroll animations, a typewriter effect intro, floating contact button, and scroll-to-top FAB. Includes dedicated pages for Home, Resume, Projects, and Contact. Fully responsive and SEO-optimized for recruiter discovery.',
     image: '/images/project4.png',
     tech: ['React', 'TypeScript', 'Vite', 'Tailwind CSS', 'Framer Motion','SEO', 'Responsive Design'],
-    liveUrl: '#',
-    githubUrl: '#'
+    liveUrl: 'https://3-d-portfolio-lac-five.vercel.app/',
+    githubUrl: 'https://github.com/deepakjadon1902/3D-Portfolio.git'
   },
   {
     id: 'timeless-touch',
