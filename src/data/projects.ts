@@ -17,7 +17,7 @@ export const projects: Project[] = [
     description: 'A full-stack event management app to plan, track, and manage events. Includes RSVP handling, analytics, and role-based views. Built with React, TypeScript, Tailwind CSS, and Supabase.',
     image: '/images/project2.png',
     tech: ['React', 'TypeScript', 'Supabase', 'Tailwind CSS'],
-    liveUrl: '#',
+    liveUrl: 'https://willowy-kringle-c9dfde.netlify.app/',
     githubUrl: '#'
   },
   {
@@ -80,7 +80,7 @@ export const projects: Project[] = [
     description: 'A frontend-only task manager built with React, TypeScript, HTML, and Tailwind CSS. Allows users to create, edit, delete, and track tasks using local storage.',
     image: '/images/project9.png',
     tech: ['React', 'TypeScript', 'Tailwind CSS', 'HTML', 'Local Storage'],
-    liveUrl: '#',
+    liveUrl: 'https://task-managment-system-sable.vercel.app/',
     githubUrl: 'https://github.com/deepakjadon1902/Task-Managment-System.git'
   },
   {
@@ -89,7 +89,7 @@ export const projects: Project[] = [
     description: 'A fitness tracking application built using Angular. Users can set goals, track daily activity, and visualize progress with charts. Features clean UI and responsive design.',
     image: '/images/project10.png',
     tech: ['Angular', 'TypeScript', 'Tailwind CSS', 'Chart.js'],
-    liveUrl: '#',
+    liveUrl: 'https://health-challenge-tracker-tmw6.vercel.app/',
     githubUrl: 'https://github.com/deepakjadon1902/health-tracker'
   },
   {
