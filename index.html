@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Deepak Jadon - Innovative Full-Stack Developer specializing in React, TypeScript, Node.js, and MongoDB. Creating cutting-edge web solutions with modern 3D animations and premium design aesthetics." />
+    <meta name="keywords" content="Full-Stack Developer, React Expert, TypeScript, Node.js, MongoDB, 3D Web Design, Modern Web Development, Deepak Jadon, Portfolio, Innovative Solutions" />
+    <meta name="author" content="Deepak Jadon" />
+    <meta property="og:title" content="Deepak Jadon | Innovative Full-Stack Developer" />
+    <meta property="og:description" content="Crafting exceptional digital experiences with cutting-edge technology and stunning 3D animations. Explore my portfolio of innovative web applications." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://deepakjadon-portfolio.netlify.app" />
+    <title>Deepak Jadon | Innovative Full-Stack Developer Portfolio</title>
+    
+    <!-- Preload critical fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <!-- Custom CSS for enhanced 3D effects -->
+    <style>
+      .perspective-1000 {
+        perspective: 1000px;
+      }
+      
+      .transform-gpu {
+        transform: translateZ(0);
+        backface-visibility: hidden;
+      }
+      
+      .shadow-3xl {
+        box-shadow: 0 35px 60px -12px rgba(0, 0, 0, 0.3);
+      }
+      
+      /* Custom scrollbar */
+      ::-webkit-scrollbar {
+        width: 8px;
+      }
+      
+      ::-webkit-scrollbar-track {
+        background: rgba(0, 0, 0, 0.1);
+      }
+      
+      ::-webkit-scrollbar-thumb {
+        background: linear-gradient(45deg, #3b82f6, #8b5cf6);
+        border-radius: 4px;
+      }
+      
+      ::-webkit-scrollbar-thumb:hover {
+        background: linear-gradient(45deg, #2563eb, #7c3aed);
+      }
+      
+      /* Smooth scrolling */
+      html {
+        scroll-behavior: smooth;
+      }
+      
+      /* Enhanced backdrop blur support */
+      @supports (backdrop-filter: blur(20px)) {
+        .backdrop-blur-xl {
+          backdrop-filter: blur(20px);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
