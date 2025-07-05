@@ -27,7 +27,7 @@ export const projects: Project[] = [
     image: '/images/project3.png',
     tech: ['React', 'TypeScript', 'Tailwind CSS', 'Supabase', 'Authentication', 'Admin Panel'],
     liveUrl: 'https://reliable-daifuku-e27641.netlify.app/',
-    githubUrl: '#'
+    githubUrl: 'https://github.com/deepakjadon1902/DriveEase.git'
   },
   {
     id: 'portfolio',
