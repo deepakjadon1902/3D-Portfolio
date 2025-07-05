@@ -18,7 +18,7 @@ export const projects: Project[] = [
     image: '/images/project2.png',
     tech: ['React', 'TypeScript', 'Supabase', 'Tailwind CSS'],
     liveUrl: 'https://willowy-kringle-c9dfde.netlify.app/',
-    githubUrl: '#'
+    githubUrl: 'https://github.com/deepakjadon1902/EventFlow.git'
   },
   {
     id: 'driveease',
