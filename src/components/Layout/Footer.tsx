@@ -29,23 +29,10 @@ const Footer = () => {
               </div>
             </div>
           </div>
-          <div className="space-y-4">
-            <h3 className="text-xl font-bold text-white">Quick Links</h3>
-            <div className="space-y-2">
-              <a href="/" className="block text-slate-300 hover:text-blue-400 transition-colors">
-                Home
-              </a>
-              <a href="/resume" className="block text-slate-300 hover:text-blue-400 transition-colors">
-                Resume
-              </a>
-              <a href="/projects" className="block text-slate-300 hover:text-blue-400 transition-colors">
-                Projects
-              </a>
-              <a href="/contact" className="block text-slate-300 hover:text-blue-400 transition-colors">
-                Contact
-              </a>
-            </div>
-          </div>
+
+
+
+
 
           {/* Social Links */}
           <div className="space-y-4">
