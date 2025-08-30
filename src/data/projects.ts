@@ -8,7 +8,7 @@ export const projects: Project[] = [
     description: 'A responsive ride-sharing platform built using React, TypeScript, Vite, and Tailwind CSS. Integrated Supabase for authentication, real-time subscriptions, and PostgreSQL. Users can book or offer rides with live updates and smooth UI powered by Framer Motion.',
     image: '/images/project1.png',
     tech: ['React', 'TypeScript', 'Vite', 'Tailwind CSS', 'Supabase', 'Framer Motion', 'PostgreSQL'],
-    liveUrl: 'https://lively-concha-1432eb.netlify.app/',
+    liveUrl: 'https://melodic-blancmange-1fb476.netlify.app/',
     githubUrl: 'https://github.com/deepakjadon1902/MY_DriveMate.git'
   },
   {
