@@ -9,7 +9,7 @@ export const projects: Project[] = [
     image: '/images/project1.png',
     tech: ['React', 'TypeScript', 'Vite', 'Tailwind CSS', 'Supabase', 'Framer Motion', 'PostgreSQL'],
     liveUrl: 'https://melodic-blancmange-1fb476.netlify.app/',
-    githubUrl: 'https://github.com/deepakjadon1902/MY_DriveMate.git'
+    githubUrl: 'https://github.com/deepakjadon1902/My-DriveMate'
   },
   {
     id: 'eventflow',
