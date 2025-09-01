@@ -8,8 +8,8 @@ export const projects: Project[] = [
     description: 'A responsive ride-sharing platform built using React, TypeScript, Vite, and Tailwind CSS. Integrated Supabase for authentication, real-time subscriptions, and PostgreSQL. Users can book or offer rides with live updates and smooth UI powered by Framer Motion.',
     image: '/images/project1.png',
     tech: ['React', 'TypeScript', 'Vite', 'Tailwind CSS', 'Supabase', 'Framer Motion', 'PostgreSQL'],
-    liveUrl: 'https://lively-concha-1432eb.netlify.app/',
-    githubUrl: 'https://github.com/deepakjadon1902/MY_DriveMate.git'
+    liveUrl: 'https://my-drive-mate.vercel.app/',
+    githubUrl: 'https://github.com/deepakjadon1902/My-DriveMate'
   },
   {
     id: 'eventflow',
@@ -18,7 +18,7 @@ export const projects: Project[] = [
     image: '/images/project2.png',
     tech: ['React', 'TypeScript', 'Supabase', 'Tailwind CSS'],
     liveUrl: 'https://willowy-kringle-c9dfde.netlify.app/',
-    githubUrl: '#'
+    githubUrl: 'https://github.com/deepakjadon1902/EventFlow.git'
   },
   {
     id: 'driveease',
@@ -27,7 +27,7 @@ export const projects: Project[] = [
     image: '/images/project3.png',
     tech: ['React', 'TypeScript', 'Tailwind CSS', 'Supabase', 'Authentication', 'Admin Panel'],
     liveUrl: 'https://reliable-daifuku-e27641.netlify.app/',
-    githubUrl: '#'
+    githubUrl: 'https://github.com/deepakjadon1902/DriveEase.git'
   },
   {
     id: 'portfolio',
