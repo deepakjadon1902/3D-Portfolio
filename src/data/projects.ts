@@ -17,7 +17,7 @@ export const projects: Project[] = [
     description: 'A full-stack event management app to plan, track, and manage events. Includes RSVP handling, analytics, and role-based views. Built with React, TypeScript, Tailwind CSS, and Supabase.',
     image: '/images/project2.png',
     tech: ['React', 'TypeScript', 'Supabase', 'Tailwind CSS'],
-    liveUrl: 'https://willowy-kringle-c9dfde.netlify.app/',
+    liveUrl: 'https://event-flow-silk.vercel.app',
     githubUrl: 'https://github.com/deepakjadon1902/EventFlow.git'
   },
   {
